@@ -27,7 +27,7 @@ OSU Portland Center is located in the Meier & Frank Building, which is access co
 | 16th, 12-1:30pm | Lunch | |
 | 16th, 1:30-3pm | [Peer code review](https://munkm.github.io/2024-winterschool/peer-review.slides.html#/), work time | | Madicken
 | 16th, 3-5pm | [Remote development on HPCs](https://jpmorgan98.github.io/urssi-remotedev-slides/hpc-dev.slides.html#/), work time | | Joanna
-| 16th, 6pm | Group Dinner | |
+| 16th, 6pm | Group Dinner @ [Deschutes Portland Public House](https://deschutesbrewery.com/pages/portland-public-house), 210 NW 11th Ave | |
 | 17th, 9-10:30am | [Documentation and versioning](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/), work time | | Kyle
 | 17th, 10:30am-12pm | [Open science & software citation](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/) |  | Kyle
 | 17th, 12pm | close | |
