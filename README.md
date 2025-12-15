@@ -3,7 +3,11 @@
 
 ## Discussion and notes
 
-TBD
+[Zulip chatroom](https://urssi-softwareschool.zulipchat.com/) (join `#December-2025` channel)
+
+[HackMD notepad](https://hackmd.io/@kyleniemeyer/SyfQNc2Mbg/edit) (for collaborative note-taking)
+
+Wifi: `eduroam` or `Visitor`
 
 --- 
 
