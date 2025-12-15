@@ -9,6 +9,8 @@
 
 Wifi: `eduroam` or `Visitor`
 
+[Additional packaging slides](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing)
+
 --- 
 
 15-17 December 2025, Portland OR
@@ -25,7 +27,7 @@ OSU Portland Center is located in the Meier & Frank Building, which is access co
 | 15th, 10-10:30am  | [Managing environments](https://softwaredevengresearch.github.io/software-development-research/managing-environment-revealjs.html#/) |  | Kyle
 | 15th, 10:30am-12pm | [Software design and modularity](https://evamaxfield.github.io/winter-school-lectures/software-design-and-modularity.slides.html#/) | | Joanna
 | 15th, 12-1:30pm | Lunch | |
-| 15th, 1:30-2:30pm | [Structuring Python packages](https://docs.google.com/presentation/d/1thjeqGGnx40pnVobCNxgsXxXA14WimmqlH2tPomOpSg/edit?usp=sharing), work time |  | Joanna
+| 15th, 1:30-2:30pm | [Structuring Python packages](https://matthewfeickert-talks.github.io/talk-urssi-summer-school-2024/), work time |  | Joanna
 | 15th, 3-5pm     | [Collaboration with Git/GitHub/Workflows](https://munkm.github.io/2024-winterschool/git-collaboration.slides.html), work time |  | Madicken
 | 16th, 9am-12pm  | [Testing and continuous integration, linting](https://evamaxfield.github.io/winter-school-lectures/testing-lint-ci.slides.html#/) [repo](https://github.com/evamaxfield/winter-school-lectures), work time |  | Joanna
 | 16th, 12-1:30pm | Lunch | |
